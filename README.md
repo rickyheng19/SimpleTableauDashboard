@@ -1,8 +1,7 @@
 # Simple Tableau Dashboard
 
 Link to dashboard:
-https://public.tableau.com/authoring/MostPopularBooksbyGenre/Dashboard1#1
-
+https://public.tableau.com/app/profile/ricky.heng7965/viz/MostPopularBooksbyGenre/Dashboard1
 Data Set used:
 https://www.kaggle.com/datasets/chhavidhankhar11/amazon-books-dataset
 
